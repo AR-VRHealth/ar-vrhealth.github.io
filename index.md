@@ -16,7 +16,7 @@
 
 ---
 
-Some [doc] that leads to something (https://docs.google.com/document/d/1YNAkj1LImR4YtRxDgjD9SdapZpdiZCXBrbooKhChiT8/edit?usp=sharing)
+Some [doc](https://docs.google.com/document/d/1YNAkj1LImR4YtRxDgjD9SdapZpdiZCXBrbooKhChiT8/edit?usp=sharing)
 
 ## Overview
 Overview section 
