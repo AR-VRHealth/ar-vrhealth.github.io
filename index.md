@@ -94,7 +94,6 @@ This is a screenshot
 
 ## Team
 **AR-VRHealth** is proudly designed, implemented, and maintained by:
-- [Cody Torres](https://codygt3.github.io)
-- [Junle Yan](https://junleyan.github.io)
-- [Lewen Lin](https://lewenlin.github.io/Lewen-Lin.github.io/)
-- [Justine Afaga](https://jafaga.github.io)
+- Ricki Ace G. Gaborno - rg42@hawaii.edu | [GitHub Profile](https://github.com/Rickiace)
+- Austin Jake C. Villanueva - ajcv@hawaii.edu | [GitHub Profile](https://github.com/AustinV28)
+- Justine A. Afaga - afagajus@hawaii.edu | [GitHub Profile](https://github.com/Jafaga)
