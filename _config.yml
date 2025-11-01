@@ -1,4 +1,4 @@
-title: This is a title 
+title: Capstone Project | ICS 486 
 description: University of Hawaiʻi at Manoa 
 google_analytics:
 show_downloads: false
@@ -10,4 +10,4 @@ gems:
   - jekyll-mentions
 
 # Custom variable for the image path
-hero_image: ../img/logo.jpg
+hero_image: ../img/logoNew.jpg
