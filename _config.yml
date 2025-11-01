@@ -1,0 +1,13 @@
+title: This is a title 
+description: University of Hawaiʻi at Manoa 
+google_analytics:
+show_downloads: false
+theme: jekyll-theme-cayman
+github:
+  is_project_page: true
+  repository_url: https://github.com/AR-VRHealth/ar-vrhealth.github.io
+gems:
+  - jekyll-mentions
+
+# Custom variable for the image path
+hero_image: ../img/logo.jpg
