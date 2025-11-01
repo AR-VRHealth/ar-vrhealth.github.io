@@ -1,0 +1,53 @@
+/* Center the main content and apply max-width */
+body {
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    text-align: center;
+    background-color: #f3e8d0; /* Light background color similar to the screenshot */
+    font-family: 'Georgia', serif; /* Set a classic font */
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+/* Style the main container */
+.container {
+    max-width: 800px;
+    padding: 20px;
+    background-color: #fff; /* White background for content */
+    border-radius: 8px; /* Rounded corners */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+    margin: 20px;
+}
+
+/* Typography adjustments */
+h1, h2, h3 {
+    color: #800000; /* Dark red color for headings */
+    font-weight: bold;
+}
+
+h1 {
+    font-size: 2em;
+}
+
+h2 {
+    font-size: 1.5em;
+}
+
+/* Links styling */
+a {
+    color: #800000; /* Matching link color */
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+/* Optional: Styling the table of contents */
+#table-of-contents {
+    font-style: italic;
+    font-size: 1.1em;
+    margin-bottom: 20px;
+}
+
