@@ -121,8 +121,7 @@ This is a screenshot
 **Focus (example):** Beach environment expansion + N-Back implementation + XR interaction polishing.
 
 The issues that were completed for this include:
-- (Add your real completed issues here)
-- (Add your real completed issues here)
+- completed issues 
 
 Screenshots of our progress so far:
 
@@ -146,7 +145,7 @@ This is a screenshot
 
 Check out a quick demo here: 
 
-- Demo video: https://(your-link-here)
+- Demo video: https://(link-here)
 
 ---
 
