@@ -42,7 +42,7 @@ By combining **VR stimuli** with **EEG measurements**, this system aims to help 
 
 **Poster (latest draft):**
 
-<img width="900px" class="rounded shadow-sm" src="../images/arvr-for-health-poster.jpg" alt="AR/VR For Health poster">
+<img width="900px" class="rounded shadow-sm" src="../images/poster_draft.jpg" alt="AR/VR For Health poster">
 
 **In-app screenshots (replace with updated images):**
 
