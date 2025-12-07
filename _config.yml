@@ -10,4 +10,4 @@ gems:
   - jekyll-mentions
 
 # Custom variable for the image path
-hero_image: ../img/logoNew.jpg
+hero_image: ../images/logoNew.jpg
