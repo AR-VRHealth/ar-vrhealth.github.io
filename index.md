@@ -95,7 +95,7 @@ Things to add for this:
 **Focus (example):** Project setup + inherited scene cleanup (Office/Park) + baseline performance.
 
 The issues that were completed for this include:
-- Something..
+- Visual appearances of scenes were changed 
 
 Screenshots of our progress so far:
 
