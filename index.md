@@ -52,20 +52,18 @@ By combining **VR stimuli** with **EEG measurements**, this system aims to help 
 
 ---
 
-## User Guide
-
-Keep it classic + easy (update details to match your repo/workflow):
+## User Guide / Documentation 
 
 1. **Get the project**
-   - Clone/download the repository.
+   - Clone/download the repository to your personal device. 
 2. **Open in Unity**
-   - Open the project folder in Unity (use the same Unity version your team is standardizing on).
+   - Open the project folder in Unity (depending on the version, use the same Unity version your team is standardizing on).
 3. **Run in Editor**
    - Press Play to test scenes and UI.
 4. **Test on Meta Quest**
    - Connect the headset and run a build to validate VR performance, interactions, and UI usability.
-5. **Try the N-Back Task**
-   - Navigate to the Beach environment and run **1-back / 2-back / 3-back**.
+5. **Try the Memory Allocation and N-Back Task**
+   - Navigate to both the Park Scene and Apartment Scene to try out the **Memory Allocation** activity, while navigate to the Beach scene and run **1-back / 2-back / 3-back**.
 
 ---
 
