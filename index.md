@@ -46,9 +46,9 @@ By combining **VR stimuli** with **EEG measurements**, this system aims to help 
 
 **In-app screenshots (replace with updated images):**
 
-<img width="900px" class="rounded shadow-sm mb-3" src="../images/preview/scene-park.png" alt="Preview: Park scene">
-<img width="900px" class="rounded shadow-sm mb-3" src="../images/preview/scene-apartment.png" alt="Preview: Apartment scene">
-<img width="900px" class="rounded shadow-sm mb-3" src="../images/preview/scene-beach-nback.png" alt="Preview: Beach N-Back scene">
+<img width="900px" class="rounded shadow-sm mb-3" src="../images/parkscene.jpeg" alt="Preview: Park scene">
+<img width="900px" class="rounded shadow-sm mb-3" src="../images/apartmentscene.jpeg" alt="Preview: Apartment scene">
+<img width="900px" class="rounded shadow-sm mb-3" src="../images/beachscene.jpeg" alt="Preview: Beach N-Back scene">
 
 ---
 
